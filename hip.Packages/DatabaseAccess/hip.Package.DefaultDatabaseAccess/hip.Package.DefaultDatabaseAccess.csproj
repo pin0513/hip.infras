@@ -7,8 +7,8 @@
     <ProjectGuid>{7286B6BC-448E-4E87-AA10-7D9D2ECFF252}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>TutorGroup.Package.DefaultDatabaseAccess</RootNamespace>
-    <AssemblyName>TutorGroup.Package.DefaultDatabaseAccess</AssemblyName>
+    <RootNamespace>hip.Package.DefaultDatabaseAccess</RootNamespace>
+    <AssemblyName>hip.Package.DefaultDatabaseAccess</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SccProjectName>SAK</SccProjectName>
